@@ -18,15 +18,16 @@ console.log(x);
 let y = null;
 console.log(y);
 
-// Object
+// Object Datatype
 let person = { name: "Bob", age: 30 };
 console.log(person);
 
-// Array
+// Array Datatype
 let numbers = [1, 2, 3, 4, 5];
 console.log(numbers);
 
 
 console.log("This is Pakistan Babe");
+
 
 alert("Welcome on The Web Page");
